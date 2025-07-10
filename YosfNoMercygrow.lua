@@ -1,5 +1,5 @@
 -- رقم سيرفرك الخاص
-local placeId = 126884695634066 -- عدله إلى GameId أو PlaceId الخاص فيك
+local placeId = 2285776296 -- عدله إلى GameId أو PlaceId الخاص فيك
 local serverJobId = "98a3ccbc-78f9-4bbf-a4a1-13c45dd7d50a" -- JobId الخاص بسيرفرك
 
 -- الخطوة الأولى: نقل اللاعب إلى سيرفرك الخاص
